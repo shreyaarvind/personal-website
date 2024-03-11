@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "I am a fourth-year undergraduate student at the University of California, Los Angeles working towards a B.S. in Statistics and Data Science and a B.A. in Economics. My two majors have given me the tools to apply both theoretical and statistical approaches to real world problems.\nMy past work experience includes a Data Governance internship at an artificial intelligence startup called ScienceLogic. I became adept in managing the availability, usability, integrity and security of the data in enterprise systems.\nFollowing my internship at ScienceLogic, I joined Analysis Group as a Summer Analyst. As one of the largest international economic consulting firms, Analysis Group provides economic, financial and strategy consulting to law firms, corporations & government agencies. As a Summer Analyst, I honed my statistical programming skills by developing data analyses to support clients. I will be returning to Analysis Group as a full-time Analyst in August 2024."
   },
   {
     "objectID": "projects.html",
@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Shreya Arvind",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Attached is my current CV"
   },
   {
     "objectID": "index.html#title-of-website",
@@ -26,5 +26,26 @@
     "title": "Shreya Arvind",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html#academic-experience",
+    "href": "about.html#academic-experience",
+    "title": "About",
+    "section": "",
+    "text": "I am a fourth-year undergraduate student at UCLA working towards a B.S. in Statistics and Data Science and a B.A. in Economics. My two majors have given me the tools to apply both theoretical and statistical approaches to real world problems."
+  },
+  {
+    "objectID": "about.html#relevant-work-and-academic-experience",
+    "href": "about.html#relevant-work-and-academic-experience",
+    "title": "About",
+    "section": "",
+    "text": "I am a fourth-year undergraduate student at UCLA working towards a B.S. in Statistics and Data Science and a B.A. in Economics. My two majors have given me the tools to apply both theoretical and statistical approaches to real world problems."
+  },
+  {
+    "objectID": "about.html#academic-experience-and-relevant-work",
+    "href": "about.html#academic-experience-and-relevant-work",
+    "title": "About",
+    "section": "",
+    "text": "I am a fourth-year undergraduate student at the University of California, Los Angeles working towards a B.S. in Statistics and Data Science and a B.A. in Economics. My two majors have given me the tools to apply both theoretical and statistical approaches to real world problems.\nMy past work experience includes a Data Governance internship at an artificial intelligence startup called ScienceLogic. I became adept in managing the availability, usability, integrity and security of the data in enterprise systems.\nFollowing my internship at ScienceLogic, I joined Analysis Group as a Summer Analyst. As one of the largest international economic consulting firms, Analysis Group provides economic, financial and strategy consulting to law firms, corporations & government agencies. As a Summer Analyst, I honed my statistical programming skills by developing data analyses to support clients. I will be returning to Analysis Group as a full-time Analyst in August 2024."
   }
 ]

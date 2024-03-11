@@ -1,6 +1,15 @@
 ---
 title: "About"
+toc: false
 ---
 
-About this site
+## Academic Experience and Relevant Work
+
+I am a fourth-year undergraduate student at the University of California, Los Angeles working towards a B.S. in Statistics and Data Science and a B.A. in Economics. My two majors have given me the tools to apply both theoretical and statistical approaches to real world problems.
+
+My past work experience includes a Data Governance internship at an artificial intelligence startup called ScienceLogic. I became adept in managing the availability, usability, integrity and security of the data in enterprise systems. 
+
+Following my internship at ScienceLogic, I joined Analysis Group as a Summer Analyst. As one of the largest international economic consulting firms, Analysis Group provides economic, financial and strategy consulting to law firms, corporations & government agencies. As a Summer Analyst, I honed my statistical programming skills by developing data analyses to support clients. I will be returning to Analysis Group
+as a full-time Analyst in August 2024. 
+
 
