@@ -12,9 +12,10 @@ about:
         - icon: inbox-fill
           text: Email
           url: "mailto:shreya.g.arvind@gmail.com"
-image: IMG_9514.JPG
+image: IMG_5693.JPG
 ---
 
 Attached is my current [CV](/docs/CV/ShreyaArvindResume.pdf "CV")
+
 
 
